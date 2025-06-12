@@ -1,0 +1,208 @@
+
+.headerbackground
+{
+width: 1600px;
+height: 837px;
+background: rgb(255, 248, 243);
+}
+
+
+.navigation
+{
+margin-top: 55px;
+margin-left: 230px;
+margin-right: 230px;
+display: flex;
+flex-direction: row;
+align-items: center;
+gap: 700px;
+
+}
+
+
+.marybox
+{
+border: none;
+padding: 0px;
+width: 121px;
+height: 61px;
+font-family: Open Sans;
+font-size: 45px;
+font-weight: 800;
+line-height: 61px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+
+
+.link
+{
+    border: none;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 51px;
+    align-items: center;
+}
+
+
+
+
+.portfolio
+{
+color: rgb(71, 71, 71);
+font-family: Open Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration: none;
+}
+
+
+
+
+.button
+{
+margin: 0px;
+border: none;
+border-radius: 5px;
+padding: 18px 35px 19px 36px ;
+width: 150px;
+height: 64px;
+background: rgb(253, 110, 10);
+color: rgb(255, 255, 255);
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+
+
+
+
+
+
+.bannersection
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
+
+.information
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;   
+}
+
+
+.imagedeveloper
+{
+width: 136px  ;
+height: 774px;
+}
+
+
+.hellosection
+{
+width: 177px;
+height: 61px;
+color: rgb(71, 71, 71);
+font-family: Open Sans;
+font-size: 36px;
+font-weight: 600;
+line-height: 61px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.namesection
+{
+width: 498px;
+height: 116px;
+color: rgb(24, 24, 24);
+font-family: Open Sans;
+font-size: 85px;
+font-weight: 700;
+line-height: 116px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.paragraphsection
+{
+width: 585px;
+height: 60px;
+color: rgb(117, 117, 117);
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+
+.lowerbuttons
+{
+display: flex;
+flex-direction: row;
+align-items: center;
+gap: 30px;
+}
+
+
+.downloadbutton
+{
+width: 200px;
+height: 64px;
+border: none;
+border-radius: 5px;
+padding: 19px 17px 18px 51px;
+background: rgb(253, 110, 10);
+color: rgb(255, 255, 255);
+font-family: Open Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+
+
+.contactbutton
+{
+width: 160px;
+height: 64px;
+border: 2px solid rgb(253, 110, 10);
+border-radius: 5px;
+padding: 19px 23px 18px 58px;
+color: rgb(253, 110, 10);
+font-family: Open Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+
+.imagehardy
+{
+width: 584px;
+height: 676px;
+background-image: url(../images/header_bg.png);
+}
